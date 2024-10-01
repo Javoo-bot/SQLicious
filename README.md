@@ -1,0 +1,2 @@
+# SQLicious
+Mastering PostgreSQL.
