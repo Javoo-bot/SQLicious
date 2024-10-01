@@ -18,7 +18,9 @@ Now onto PostgreSQL, where I’ll unlock the full potential of data. PostgreSQL 
 📂 What’s Inside
 
 📝 PostgreSQL Learning Path: From basics to advanced database features.
+
 💡 SQL Queries: Real examples of queries and optimizations.
+
 🛠️ SQLite Fundamentals: Early steps using SQLite to build a strong foundation.
 
 🌟 Conclusion
