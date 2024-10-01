@@ -37,6 +37,12 @@ INSERT INTO Movies (Id, Title, Director, Year, Length_minutes) VALUES
 
 SELECT * FROM Movies;
 
+## Entrar en la sesion
+
+Entrar en SQL Tools -> editar conexion -> mirar ruta del database file y poner
+
+sqlite3 ruta/al/archivo/base_datos.db
+
 ## Salir de la sesión:
 
 .exit

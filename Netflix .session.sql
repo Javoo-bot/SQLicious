@@ -57,6 +57,10 @@ GROUP BY type,
     decada --luego tengo que añadir que lo quiero por decada 
 ORDER BY release_year DESC;
 -- What were the average IMDB and TMDB scores for each production country?
+SELECT * FROM 
+
+
+
 -- What were the average IMDB and TMDB scores for each age certification for shows and movies?
 -- What were the 5 most common age certifications for movies?
 -- Who were the top 20 actors that appeared the most in movies/shows? 
