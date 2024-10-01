@@ -1,0 +1,17 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Chinook SQLite",
+            "database": "${workspaceFolder:sql}/Chinook_Sqlite.sqlite"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Netflix ",
+            "database": "${workspaceFolder:sql}/datos/my_database.db"
+        }
+    ]
+}
