@@ -20,9 +20,9 @@ PostgreSQL handles complex, scalable datasets — perfect for mastering the back
 
 1) 📝 PostgreSQL Learning Path: From basics to advanced database features.
 
-💡 SQL Queries: Real examples of queries and optimizations.
+2) 💡 SQL Queries: Real examples of queries and optimizations.
 
-🛠️ SQLite Fundamentals: Early steps using SQLite to build a strong foundation.
+3) 🛠️ SQLite Fundamentals: Early steps using SQLite to build a strong foundation.
 
 🌟 Conclusion: This repo reflects my journey from philosophical thought to data mastery. 
 
